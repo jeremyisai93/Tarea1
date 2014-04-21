@@ -1,0 +1,7 @@
+correo: jeremy.rojas.12@sansano.usm.cl
+usuario: jeremyisai93
+Clave: Jeremy2017
+
+Base de datos:
+Nombre: database
+Constraseña: database
